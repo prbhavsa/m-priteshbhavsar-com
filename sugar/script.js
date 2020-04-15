@@ -11,7 +11,14 @@ $(document).ready(function() {
 		mm = 0,
 		ss = 0,
 		upIMG,
-		images = ["./pic1.jpg","https://preview.ibb.co/kWOEt6/minion.png","https://preview.ibb.co/e0Rv0m/ab.jpg"]
+		images =
+			[
+				"./images/1.png", "./images/2.png",
+                "./images/3.png", "./images/4.png",
+                "./images/5.png", "./images/6.png",
+                "./images/7.png", "./images/8.png",
+                "./images/9.png", "./images/10.png",
+            ];
 		img = 0;
 
 
