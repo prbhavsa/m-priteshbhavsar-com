@@ -213,7 +213,7 @@ $(document).ready(function() {
     function getMessage(image){
         console.log("Now Selected: " , image);
      	switch(image){
-			case 0:
+			case '0':
 				return "<h2>1) I love the way you look at me.</h2>" +
                     "You always asked me “Why do you love me?” And I always reply that I see it in your eyes.. I can see your soul through your eyes. When we are on video call, u literally look at me with so much focus that I will u will come out of the phone and kiss me." +
                     "<h2>2) You make me feel like I’m the only person in the world.</h2> " +
@@ -225,7 +225,7 @@ $(document).ready(function() {
                     "There was a time, whenever u use to say “You know what” I use to get a small heart attack, I don’t know why, but during that fraction of second I use to feel u may say “I also love u”, “I don’t think we should be together” or many more +ve and -ve thoughts, I can’t imagine. I have felt my heart pounding for the first time in life and u made me realize its not true that logically brain does all the thinking and heart just pumps the blood. U made me feel for u from my heart.\n" +
                     "<h2>5) You know me better than I know myself..</h2>" +
                     " As it is said, mother knows everything about her child.. and after mother I feel you knows everything about me.. even when I share things with u. Sometimes I do hide things from u, but just like my mom, u very soon realize something is wrong and may be bothering me… well now this is kind of a problem for me that can’t hide anything for u.. but u know what.. I dont need to hide anything from you. Let it be what I should wear, if I had my meal, if I had good sleep.. everything u kinda know before me.. I love u";
-			case 1:
+			case '1':
 				return "<h2>6) You are always willing to help me accomplish my goals. (My Lady luck) </h2>" +
                     "You always ask me “how do I inspire you”, well let me answer, With so much of history we have of “yes and no”, I don’t want to lose you and for that I always strive to give my best in life so that I can get everything for u. I don’t want you to not have anything u desire, I want u to have all.. this inspires me even for my parents.. and as I said u are family, so I cannot imagine my family not to have anything they desire.\n" +
                     "<h2>7) Because you are determined to make this relationship work </h2>" +
