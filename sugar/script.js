@@ -143,14 +143,12 @@ $(document).ready(function() {
 	function changeBG(img){
 		selected = img;
         console.log("Selected: " , selected);
-		if(img != 3){
 		$('.me').css({
 			"background-image" : "url("+images[img]+")"
 		});
 		return
-		}
-		else
-			$('.me').css({"background-image" : "url("+upIMG+")"});
+
+
 	}
 
 	$('.pre_img li').hover(function(){
