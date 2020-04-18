@@ -266,7 +266,7 @@ $(document).ready(function() {
                     "With the very little physical time we spent, especially the most recent trip of 2 days, the amount of time was very less and the situation was very difficult for both of us with roits and then change of hotel. But I was not focused on any of it, for me Important was that we both were stuck together in this situation and we don’t have anywhere to go. Ridhi was with us but she was also part of our little world together. Twice I watched u sleeping, u looked like a little babu.. and I didn’t wanted to disturb ur sleep. I just got lost into u, while hugging u. For that time my world was just u, and I want out future little world to start soon.\n";
 
 			default:
-				return "I can only give 10 reasons a day. Coz excitement bana rehna chayeea... :P <br> <h2>We will watch the move \" The Notebook\" together. </h2>";
+				return "I can only give 10 reasons a day. Coz excitement bana rehna chayeea... :P <br> <h2>We will watch the move **The Notebook** together. </h2>";
 		}
 	}
 });
