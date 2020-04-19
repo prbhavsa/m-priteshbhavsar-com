@@ -264,9 +264,26 @@ $(document).ready(function() {
 
                     "<h2> 20) When I am with you we are in our own special little world together where nobody else exists. </h2> " +
                     "With the very little physical time we spent, especially the most recent trip of 2 days, the amount of time was very less and the situation was very difficult for both of us with roits and then change of hotel. But I was not focused on any of it, for me Important was that we both were stuck together in this situation and we don’t have anywhere to go. Ridhi was with us but she was also part of our little world together. Twice I watched u sleeping, u looked like a little babu.. and I didn’t wanted to disturb ur sleep. I just got lost into u, while hugging u. For that time my world was just u, and I want out future little world to start soon.\n";
+			case '4':
+				return "<h1> Chapter “Little Things” </h1> " +
+                    "<h2> 21) I love u because I won’t need a CA in future </h2> " +
+                    "Practically, yes, I won’t need a CA or a person to take care of my taxes in future because I have u, the worlds best CA, my wife… sugar love. Though I won’t need to give fees to you to maintain our accounts, but I am sure over-all u are going to be very expensive CA. You can very easily sneak in your shopping expenses in our monthly expenses.. but I don’t mind to have such a cute CA to be my life partner.\n" +
+
+                    "<h2> 22) I love u because I won’t need a stylist </h2> " +
+                    "Before you, mom and didi use to take care of my style. Now that didi is married and she has to take care of her son and husband, I found u to take care of my style. Mom and you can decide what I should wear. Waise jab se tum mere life may aai ho, even before getting into relationship u have hugely influenced on my style. I started growing beards, started wearing colors that suits me. Ab tumhare saath if I have to walk, I definitely need to look go… so thank you for being my stylist.\n" +
+
+                    "<h2> 23) I love u because you taught me to take pictures </h2> " +
+                    "Whenever I think about this, I can’t imagine how I use to click my old pictures… they were simply disaster. Remember my picture “Simulating Goa” from Sula vines.. that was the first pic u saw of me and u kind of literally rejected me.. but somehow we started out together. U taught me all the parameters for a good picture/selfie… like hair style, side of face, smile, importance of teeth etc.. Funny part, I am good in technology, but u taught me about the front fast in my phone… hahah I just laugh on myself how I didn’t knew about it. I love u for teaching me whole lot of things.\n" +
+
+                    "<h2> 24) I love u because u take care of my social media. </h2> " +
+                    "By social media, I mean specifically my DPs of each platform Facebook, insta, whatsapp… if it was not for u.. I would had continued the same picture for years… and part of me I am lazy coz I just can’t select which pic is good to put as dp.. but u do that for me and also make it Square fit which is another big headache I feel… Thanks love\n" +
+
+                    "<h2> 25) I love u because you take care of those little things </h2> " +
+                    "By now u must have figured out these reasons are not “Emotionally Huge” or “Very significant”, but these are all those little things that you do for me. Like waking me up in morning, Making sure I remember birthdays, like choosing clothes for me before a meeting, helping me out in virtual shopping, debating on nude or bright color lipstick and many more things that we are doing for each other virtually…. And these little things make a separate chapter of our life… " +
+					"<h2> NOTE: You have successfully reached 50% and hence forth, you will be getting reasons in the form of Chapters. Be excited for next chapter it is about “Family” but now it is going to be a chapter each day, as the tasks will start getting longer, please don't get angry on me... </h2> ";
 
 			default:
-				return "I can only give 10 reasons a day. Coz excitement bana rehna chayeea... :P <br> <h2>We will watch the move **The Notebook** together. </h2>";
+				return "You have successfully reached 50% of the reasons puzzle and it will be a Chapter a day. Please don't get disheartened, and let the plan execute.";
 		}
 	}
 });
