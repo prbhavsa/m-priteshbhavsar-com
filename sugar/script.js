@@ -296,7 +296,7 @@ $(document).ready(function() {
                     "<h2>NOTE: Don’t freak out with 3 points, just keep going. </h2>";
 
 			default:
-				return "You have successfully reached 50% of the reasons puzzle and it will be a Chapter a day. Please don't get disheartened, and let the plan execute.";
+				return "Please don't get disheartened, and let the plan execute.";
 		}
 	}
 });
