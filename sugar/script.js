@@ -281,6 +281,19 @@ $(document).ready(function() {
                     "<h2> 25) I love u because you take care of those little things </h2> " +
                     "By now u must have figured out these reasons are not “Emotionally Huge” or “Very significant”, but these are all those little things that you do for me. Like waking me up in morning, Making sure I remember birthdays, like choosing clothes for me before a meeting, helping me out in virtual shopping, debating on nude or bright color lipstick and many more things that we are doing for each other virtually…. And these little things make a separate chapter of our life… " +
 					"<h2> NOTE: You have successfully reached 50% and hence forth, you will be getting reasons in the form of Chapters. Be excited for next chapter it is about “Family” but now it is going to be a chapter each day, as the tasks will start getting longer, please don't get angry on me... </h2> ";
+			case '5':
+				return " <h1> Chapter “Family” </h1> " +
+
+                    "<h2> 26) Got a new family </h2> " +
+                    "As you know I am a family oriented person, and for me family comes first. Though we both are in love but I won’t be just getting married with you, the marriage will be with your family. Already I have started taking some responsibility of your parents, like selecting phone for your mom, dad and ridhi. Also helping downloading movie so that your dad can enjoy watching movie during quarantine. Thank for giving me such a wonderful family.\n" +
+
+                    "<h2> 27) Mere 2 anmol Ratan </h2> " +
+                    "I really loved this post of ridhi on instagram for the picture puzzle u just solved. In above point I didn’t specify anything about ridhi it is because she does deserve a separate point. I was a young brother my whole life, but thanks for giving me a young sister I won’t say she is in law.. coz she is already my sister. It didn’t took much time for me to get frank with her just in our first meet as if we knew each other form very long. She is my spy on u.. hahah… I just enjoy talking with her about u.  \n" +
+
+                    "<h2> 28) You already made my family yours </h2> " +
+                    "I may have mentioned this numerous times, that I have never seen my mom being so cool with any of my girl friend,,, but my mom acting so coo for I have a girl-friend I could never imagine that. The time when I told my mom about u, she was ok.. like she was fine,. But the dramatic thing happened when she talked with you and that dad u made my mom and dad yours. My mom and dad periodically keep asking me news about you and your family which keep me reassuring about what my parents feel about our relationship. I know u get nervous about how to reply to my mom’s messages but u do in a  perfect way.. in a way even I would had not been able to do. Thanks for stealing my family… <3\n" +
+
+                    "<h2>NOTE: Don’t freak out with 3 points, just keep going. </h2>";
 
 			default:
 				return "You have successfully reached 50% of the reasons puzzle and it will be a Chapter a day. Please don't get disheartened, and let the plan execute.";
